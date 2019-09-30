@@ -34,6 +34,7 @@ class Math {
      * @return int
 	 */ 
 	public static function /* int */ SubtractValues(int $value1, int $value2) {
+		// Subtract $value2 from $values1 and return the result
         return $value1 - $value2;
 	}
 
